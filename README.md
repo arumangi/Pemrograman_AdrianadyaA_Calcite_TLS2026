@@ -3,11 +3,11 @@ Kumpulan file Tugas Pemrograman Dasar TETI Lab Skill 2026
 
 ## Nama Lengkap
 
-Aurelia Azzahra Putri Perwira
+Adrianadya Andiningrum
 
 ## Kelompok
 
-Copper
+Calcite
 
 ## Deskripsi
 
